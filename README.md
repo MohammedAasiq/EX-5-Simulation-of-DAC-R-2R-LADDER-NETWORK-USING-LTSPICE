@@ -20,7 +20,7 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="727" height="391" alt="image" src="https://github.com/user-attachments/assets/1a8d7533-5b72-4c64-ab98-090343238f47" />
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/8c76d66d-5aa8-499a-9a22-87a196ea6714" />
 
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="1600" height="306" alt="image" src="https://github.com/user-attachments/assets/db210293-ce1b-41e8-a28f-7226db195d2d" />
+<img width="1600" height="378" alt="image" src="https://github.com/user-attachments/assets/70964569-6913-4e5c-ae5c-bb261a2db1b4" />
 
 
 ---
